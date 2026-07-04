@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Braxton J Perry',
+  description: 'Approachable adventure, cultural deep-dives, and really good food.',
   cover: 'assets/images/blog-cover.jpg',
   logo: 'assets/images/blog-icon.png',
   logoDark: 'assets/images/favicon.png',
