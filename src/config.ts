@@ -1,5 +1,5 @@
 export const SITE_CONFIG = {
-  title: 'BraxtonJPerry',
+  title: 'Braxton J Perry',
   description: 'Approachable adventure, cultural deep-dives, and really good food.',
   cover: 'assets/images/blog-cover.jpg',
   logo: '',
