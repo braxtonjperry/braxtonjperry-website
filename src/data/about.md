@@ -2,15 +2,21 @@
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: ''
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+## Hey, I'm Braxton J. Perry.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+I started this site simply as a place to share my stories and document my experiences as I travel. For me, it always comes back to a few core things: **approachable adventure, genuine cultural immersion, and exceptionally good food.**
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+### My Travel Philosophy
+My philosophy on travel is pretty straightforward: it should be approachable, not intimidating. I'm not a travel guru with a master plan or pre-packaged blueprints - I'm just figuring it out as I go.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+### The Breakdown:
+* **Destinations:** A realistic look at exactly what I did, where I went, and what I ate while traveling. No over-filtered highlights - just the actual logistics of how a trip went down.
+* **The Journal:** Honest storytelling, cultural deep-dives, and the random thoughts that hit me between flights.
+* **Gear & Resources:** A straightforward look at the exact bags, cameras, and setups I actually use to make moving around a little easier. No fluff or sponsored nonsense.
+
+At the end of the day, this whole thing is just me out here proving to myself that seeing the world is entirely doable. If that makes it feel a little less intimidating for you along the way, even better.
