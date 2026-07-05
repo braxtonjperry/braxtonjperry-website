@@ -82,11 +82,11 @@ const bodyClass = current === 'home' ? 'home-template' : `${current || 'page'}-t
 
     <!-- Footer -->
         <footer class="site-footer outer">
-            <div class="site-footer-content inner">
-                <section class="copyright">
-                    <a href={getAssetUrl('/')}>{SITE_CONFIG.title}</a> &copy; {currentYear}
-                </section>
-            </div>
+        <div class="site-footer-content inner" style="color: rgba(255, 255, 255, 0.6); display: flex; justify-content: center;">
+            <section class="copyright">
+                <a href={getAssetUrl('/')} style="color: #ffffff; font-weight: 600; text-decoration: none; margin-right: 6px;">{SITE_CONFIG.title}</a> &copy; {currentYear}
+            </section>
+        </div>
     </footer>
     </div>
 
