@@ -7,7 +7,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-## Hey, I'm Braxton J. Perry.
+## Hey, I'm Braxton
 
 I started this site simply as a place to share my stories and document my experiences as I travel. For me, it always comes back to a few core things: **approachable adventure, genuine cultural immersion, and exceptionally good food.**
 
