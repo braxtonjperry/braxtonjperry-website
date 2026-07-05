@@ -81,12 +81,10 @@ const bodyClass = current === 'home' ? 'home-template' : `${current || 'page'}-t
         <slot />
 
     <!-- Footer -->
-    <footer class="site-footer outer" style="padding: 40px 0 !important; text-align: center !important; display: block !important; visibility: visible !important;">
-        <div class="site-footer-content inner" style="color: rgba(255, 255, 255, 0.5) !important; font-size: 14px !important; font-family: sans-serif !important;">
-            <section class="copyright">
-                <a href={getAssetUrl('/')} style="color: #ffffff !important; font-weight: 600 !important; text-decoration: none !important; margin-right: 6px !important;">{SITE_CONFIG.title}</a> &copy; {currentYear}
-            </section>
-        </div>
+    <footer style="background: #000000 !important; padding: 40px 0 !important; text-align: center !important; display: block !important; visibility: visible !important;">
+        <p style="color: rgba(255, 255, 255, 0.5) !important; font-size: 14px !important; font-family: sans-serif !important; margin: 0 !important; display: block !important;">
+            <a href={getAssetUrl('/')} style="color: #ffffff !important; font-weight: 600 !important; text-decoration: none !important; margin-right: 6px !important; display: inline !important;">{SITE_CONFIG.title}</a> &copy; {currentYear}
+        </p>
     </footer>
     </div>
 
