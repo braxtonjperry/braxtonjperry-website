@@ -81,12 +81,8 @@ const bodyClass = current === 'home' ? 'home-template' : `${current || 'page'}-t
         <slot />
 
     <!-- Footer -->
-        <footer class="site-footer outer">
-        <div class="site-footer-content inner" style="color: rgba(255, 255, 255, 0.6); display: flex; justify-content: center;">
-            <section class="copyright">
-                <a href={getAssetUrl('/')} style="color: #ffffff; font-weight: 600; text-decoration: none; margin-right: 6px;">{SITE_CONFIG.title}</a> &copy; {currentYear}
-            </section>
-        </div>
+     <footer style="background: red !important; padding: 40px !important; text-align: center !important; display: block !important; visibility: visible !important;">
+        <h1 style="color: white !important; font-size: 32px !important; display: block !important; margin: 0 !important;">FOOTER TEST HERE</h1>
     </footer>
     </div>
 
