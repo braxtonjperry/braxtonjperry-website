@@ -20,3 +20,5 @@ My philosophy on travel is that it should be approachable and not intimidating. 
 * **Gear & Resources:** A straightforward look at the exact bags, cameras, and setups I actually use to make moving around a little easier. I am no pro, these things just work for me. 
 
 At the end of the day, this is just me out here proving to myself that seeing the world is entirely doable with the hopes that I can make exploring, posting online, and sharing my experiences less intimidating.
+
+<img src="/assets/images/korea-skewer.jpg" alt="Braxton J. Perry in Korea" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 20px; display: block;" />
