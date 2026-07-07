@@ -23,7 +23,7 @@ My philosophy on travel is that it should be approachable and not intimidating. 
 * **The Journal:** Honest storytelling, cultural deep-dives, and the random thoughts that hit me between flights, cab rides, or showers.
 * **Gear & Resources:** A straightforward look at the exact bags, cameras, and setups I actually use to make moving around a little easier. I am no pro, these things just work for me. 
 
-[Braxton J. Perry Korea Tea Ceremony](/assets/images/me-koreateaceremony.jpeg)
+![Braxton J. Perry Korea Tea Ceremony](/assets/images/me-koreateaceremony.jpeg)
 
 At the end of the day, this is just me out here proving to myself that seeing the world is entirely doable with the hopes that I can make exploring, posting online, and sharing my experiences less intimidating.
 
