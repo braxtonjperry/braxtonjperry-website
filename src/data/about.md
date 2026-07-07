@@ -21,4 +21,4 @@ My philosophy on travel is that it should be approachable and not intimidating. 
 
 At the end of the day, this is just me out here proving to myself that seeing the world is entirely doable with the hopes that I can make exploring, posting online, and sharing my experiences less intimidating.
 
-<img src="/assets/images/korea-skewer.jpeg" alt="Braxton J. Perry in Korea" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 20px; display: block;" />
+<img src="/assets/images/kme-korea.jpeg" alt="Braxton J. Perry in Korea" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 20px; display: block;" />
